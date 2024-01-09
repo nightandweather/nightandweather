@@ -3,9 +3,9 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.5-blue.svg?cacheSeconds=2592000" />
 
 </p>
-s
+
 > Seoul St.mary's Hospital RO Researcher / Catholic Univ AIRFMT
-> Ajou nuclear medical imaging Researcher / for part time job
+> Ajou nuclear medicine imaging Researcher / for part time job
 
 ## Author
 
