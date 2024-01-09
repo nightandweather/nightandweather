@@ -5,6 +5,7 @@
 </p>
 s
 > Seoul St.mary's Hospital RO Researcher / Catholic Univ AIRFMT
+> Ajou nuclear medical imaging Researcher / for part time job
 
 ## Author
 
