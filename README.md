@@ -5,8 +5,11 @@
 </p>
 
 > Seoul St.mary's Hospital RO Researcher / Catholic Univ AIRFMT
+> 
 > Ajou nuclear medicine imaging Researcher / for part time job
+> 
 > Asan Medical Center MI2RL researcher
+> 
 > Accuray Medical Physicist
 ## Author
 
